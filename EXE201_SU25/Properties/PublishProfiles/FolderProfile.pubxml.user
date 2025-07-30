@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- https://go.microsoft.com/fwlink/?LinkID=208121. -->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>C:\Users\phamk\OneDrive\Desktop\PublishEXE</_PublishTargetUrl>
+    <History>True|2025-07-23T19:18:57.8829059Z||;False|2025-07-24T02:15:00.5420592+07:00||;True|2025-07-23T17:07:29.9773275+07:00||;True|2025-07-11T23:08:53.4660873+07:00||;True|2025-07-11T22:23:11.5807542+07:00||;False|2025-07-11T22:23:07.3408397+07:00||;True|2025-07-11T21:58:53.4604640+07:00||;True|2025-07-11T19:27:36.1997728+07:00||;True|2025-07-11T19:23:03.8821196+07:00||;True|2025-07-11T19:20:14.9859684+07:00||;True|2025-07-11T18:55:52.2315329+07:00||;True|2025-06-28T18:00:44.4122950+07:00||;True|2025-06-27T12:23:48.6045433+07:00||;True|2025-06-21T17:43:08.3693177+07:00||;False|2025-06-21T17:28:06.6886132+07:00||;False|2025-06-21T17:27:58.7146301+07:00||;False|2025-06-21T17:27:49.6523985+07:00||;True|2025-06-21T11:50:49.6007664+07:00||;True|2025-06-21T11:50:46.1280859+07:00||;False|2025-06-21T11:50:41.2352326+07:00||;True|2025-06-21T11:45:37.7826811+07:00||;True|2025-06-14T10:36:31.1541543+07:00||;False|2025-06-14T10:36:21.0139997+07:00||;True|2025-06-14T09:57:08.7886591+07:00||;False|2025-06-14T09:56:42.0848819+07:00||;True|2025-06-14T09:50:18.9104373+07:00||;False|2025-06-14T09:50:02.2514413+07:00||;True|2025-06-14T07:26:19.9786640+07:00||;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="DefaultConnectionString">
+      <Value>Data Source=localhost%3bInitial Catalog=EcoGreen%3bUser ID=sa%3bPassword=1234567890%3bEncrypt=False</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+</Project>
